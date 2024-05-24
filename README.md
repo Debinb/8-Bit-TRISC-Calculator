@@ -9,3 +9,4 @@ This verilog based 8-bit calculator performs addition and subtraction on signed 
 - BCD Conversion: The output is converted into BCD format to display on the 7-segment display.
 - Finite State Machine: This calculator uses four states to manage its operations.
 
+<video src='IMG_245.MOV'>
